@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #4a5568;
+    color: #e2e8f0;
+    margin: 1;
+    padding: 1;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+#paraque{
+    color: black;
+}
+#es{
+    color: black;
+}
+#vent{
+    color: black;
+}
+#desventajas{
+    color: black;
+}
+#videoque{
+    color: black;
+}
+#curso{
+    color: black;
+}
+#lo{
+    color: black;
+}
